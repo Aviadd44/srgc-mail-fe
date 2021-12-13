@@ -1,3 +1,16 @@
+.srgc{ color: goldenrod;
+    padding-top: 1cm;
+    padding-bottom: 1cm;
+
+}
+/*.middlecontainer{
+
+    height: 71vh;
+    width: 37vw;
+    background-color: #79B4B7;
+}
+
+
 .postal-form {
     background-color: yellow;
     margin: 15rem;
@@ -6,5 +19,41 @@
 
 .magic:hover {
     background-color: red;
-}
+}*/
 
+.fname{
+padding-right: 2cm;
+font-weight: bold;
+
+}
+.lname{
+
+    padding-right: 2cm;
+    font-weight: bolder;
+}
+.address{
+
+    padding-right: 2cm;
+    font-weight: bold;
+}
+.username{
+
+    padding-right: 2cm;
+    font-weight: bold;
+}
+.emailid{
+
+    padding-right: 2cm;
+    font-weight: bold;
+
+}
+.password{
+
+    padding-right: 2cm;
+    font-weight: bold;
+}
+.confirmpassword{
+
+    padding-right: 1cm;
+    font-weight: bold;
+}
