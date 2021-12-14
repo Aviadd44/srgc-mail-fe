@@ -1,16 +1,19 @@
-.srgc{ color: goldenrod;
+.srgc { color: goldenrod;
     padding-top: 1cm;
     padding-bottom: 1cm;
 
 }
-/*.middlecontainer{
+.middle-container{
 
-    height: 71vh;
-    width: 37vw;
-    background-color: #79B4B7;
+    /* height: 71vh; */
+    /* width: 37vw; */
+    background-color:whitesmoke;
+    
 }
-
-
+.login-table{
+    text-align: center;
+}
+/*
 .postal-form {
     background-color: yellow;
     margin: 15rem;
@@ -21,38 +24,38 @@
     background-color: red;
 }*/
 
-.fname{
+.fname {
 padding-right: 2cm;
 font-weight: bold;
 
 }
-.lname{
+.lname {
 
     padding-right: 2cm;
     font-weight: bolder;
 }
-.address{
+.address {
 
     padding-right: 2cm;
     font-weight: bold;
 }
-.username{
+.username {
 
     padding-right: 2cm;
     font-weight: bold;
 }
-.emailid{
+.emailid {
 
     padding-right: 2cm;
     font-weight: bold;
 
 }
-.password{
+.password {
 
     padding-right: 2cm;
     font-weight: bold;
 }
-.confirmpassword{
+.confirmpassword {
 
     padding-right: 1cm;
     font-weight: bold;
