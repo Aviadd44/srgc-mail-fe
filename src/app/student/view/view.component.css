@@ -1,0 +1,38 @@
+.list-table{
+    /* border-collapse: separate; */
+    /* text-indent: initial; */
+    border-spacing: 4vh;
+    /* border-top-width: 4vh; */
+    /* border-right-width: 4vh; */
+    /* border-bottom-width: 4vh; */
+    /* border-left-width: 4vh; */
+}
+.studentlist{
+    text-align: center;
+    padding-top: 2vh;
+    color: goldenrod;
+}
+.rollnumber{
+    padding-right: 4vh;
+    font-weight: bolder;
+}
+.firstname{
+    padding-right: 4vh;
+    font-weight: bolder;
+}
+.lastname{
+    padding-right: 4vh;
+    font-weight: bolder;
+}
+.username{
+    padding-right: 4vh;
+    font-weight: bolder;
+}
+.emailid{
+    padding-right: 4vh;
+    font-weight: bolder;
+}
+.address{
+    padding-right: 4vh;
+    font-weight: bolder;
+}

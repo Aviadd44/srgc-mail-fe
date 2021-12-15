@@ -1,9 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
 
 body {
-    height: 100vh;
-    width: 100vw;
+    /* height: 100vh; */
+    /* width: 100vw; */
      background-image: url('assets/pic1.jpg'); 
-    /*background-color: tomato;
+    
+     /*background-color: tomato;
     margin: 0;*/
 }
