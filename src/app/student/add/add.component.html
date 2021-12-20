@@ -1,0 +1,39 @@
+
+<strong>
+  <h1 class="srgc">Student Mail Service</h1>
+</strong>
+
+<form action="" method="post" class="postal-form">
+
+  <table class="login-table">
+    <tr>
+      <td><label for="name" class="fname"> First Name</label></td>
+      <td><input type="text" name="name" id="name" [(ngModel)]="firstName"></td>
+    </tr>
+    <tr>
+      <td><label for="name" class="lname">Last Name</label></td>
+      <td><input type="text" name="name" id="name" [(ngModel)]="lastName"></td>
+    </tr>
+    <tr>
+      <td><label for="address" class="address">Address</label></td>
+      <td><input type="text" name="adress" id="address" [(ngModel)]="address"></td>
+    </tr>
+    <tr>
+      <td><label for="username" class="username"> Username</label></td>
+      <td><input type="text" name="name" id="name" [(ngModel)]="username"></td>
+    </tr>
+    <tr>
+      <td><label for="email" class="emailid">E-Mail Id</label></td>
+      <td><input type="email" name="email" id="email" [(ngModel)]="emailId"></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <button class="btn save-btn" (click)="saveStudent()"><i class="fa fa-home"> Save</i></button>
+        <button class="btn view-btn" (click)="moveToView()"><i class="fa fa-home"> View </i></button>
+      </td>
+    </tr>
+
+  </table>
+</form>
+

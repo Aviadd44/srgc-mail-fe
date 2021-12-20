@@ -1,62 +1,28 @@
-.srgc { color: goldenrod;
-    padding-top: 1cm;
-    padding-bottom: 1cm;
-
-}
-.middle-container{
-
-    /* height: 71vh; */
-    /* width: 37vw; */
-    background-color:whitesmoke;
-    
-}
-.login-table{
+.log-out {
+    margin-left: auto;
+    margin-right: 1rem;
+    cursor: pointer;
+    color: white;
     text-align: center;
 }
-/*
-.postal-form {
-    background-color: yellow;
-    margin: 15rem;
-    
+
+.boy-img {
+    height: 2rem;
+    width:  2rem;
 }
 
-.magic:hover {
-    background-color: red;
-}*/
-
-.fname {
-padding-right: 2cm;
-font-weight: bold;
-
+.my-name{   
+    margin-top: 7rem;
 }
-.lname {
 
-    padding-right: 2cm;
-    font-weight: bolder;
+.my-course{
+    margin-top: .75rem;
 }
-.address {
 
-    padding-right: 2cm;
+.my-info {
     font-weight: bold;
-}
-.username {
-
-    padding-right: 2cm;
-    font-weight: bold;
-}
-.emailid {
-
-    padding-right: 2cm;
-    font-weight: bold;
-
-}
-.password {
-
-    padding-right: 2cm;
-    font-weight: bold;
-}
-.confirmpassword {
-
-    padding-right: 1cm;
-    font-weight: bold;
+    color: blue;
+    cursor: pointer;
+    opacity: 0.8;
+    text-align: center;
 }

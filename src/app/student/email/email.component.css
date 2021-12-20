@@ -1,0 +1,40 @@
+ .boy-img{
+    height: 8vh;
+    width: 4vw;
+}
+.top-head{
+    text-align: center;
+    color: #22577A;
+    padding-bottom: 8px;
+}
+.first-input{
+    position: relative;
+    left: 29px;
+}
+.message{
+font-weight: bold;
+
+}
+.email-table{
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 4vh;
+    border: 2px outset white;
+    background-color: white;
+    opacity: 0.8;
+}
+.send-button{
+    background-color:#34BE82;
+    border-radius: 22px;
+    cursor: pointer;
+    width: 100%;
+    padding: 0.35rem;
+}
+
+.f-name{
+    font-weight: bold;
+    text-align: center;
+}
+.e-mail{
+    font-weight: bold;
+}

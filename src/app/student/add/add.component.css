@@ -1,0 +1,57 @@
+  .srgc { 
+    text-align: center;
+    color: #22577A; 
+    padding-bottom: .5cm;
+}
+
+.login-table{
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 4vh;
+    background-color: white;
+    opacity: 0.8;
+}
+.fname {
+padding-right: 2cm;
+font-weight: bold;
+
+}
+.lname {
+
+    padding-right: 2cm;
+    font-weight: bolder;
+}
+.address {
+
+    padding-right: 2cm;
+    font-weight: bold;
+}
+.username {
+
+    padding-right: 2cm;
+    font-weight: bold;
+}
+.emailid {
+
+    padding-right: 2cm;
+    font-weight: bold;
+
+}
+.password {
+
+    padding-right: 2cm;
+    font-weight: bold;
+}
+
+
+.save-btn {
+    font-size: 1rem;
+    padding: 0.25rem 0.4rem;
+    margin: 1rem auto;
+}
+
+.view-btn {
+    font-size: 1rem;
+    padding: 0.25rem 0.4rem;
+    margin: 1rem 1rem;
+}

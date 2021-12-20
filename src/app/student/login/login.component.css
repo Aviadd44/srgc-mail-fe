@@ -1,0 +1,25 @@
+.sign-in{ 
+    text-align: center;
+    color: #22577A; 
+    padding-bottom: .5cm;
+}
+.login-table{
+    margin-left: auto;
+    margin-right: auto;
+    border-spacing: 4vh;
+    background-color: white;
+    opacity: 0.8;
+    padding: 3rem;
+}
+.user-name{
+    font-weight: bold;
+}
+.password{
+    font-weight: bold;
+}
+
+.sign-in-btn {
+    font-size: 1rem;
+    padding: 0.25rem 0.4rem;
+    margin: 1rem auto;
+}

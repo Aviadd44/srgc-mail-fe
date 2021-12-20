@@ -1,10 +1,32 @@
 /* You can add global styles to this file, and also import other style files */
 
 body {
-    /* height: 100vh; */
-    /* width: 100vw; */
-     background-image: url('assets/pic1.jpg'); 
-    
-     /*background-color: tomato;
-    margin: 0;*/
+     background-image: url('assets/pic4.jpg');
+     background-repeat: no-repeat;
+     background-size: cover;
+    margin: 0;
+    height: 100vh;
+    width: 100vw;
 }
+
+
+.navi{
+    background-color: #3E7C17; 
+    opacity: 0.9;
+    display: flex;
+}
+.intro-table:hover{
+    background-color: #EBE645;
+}
+.btn {
+    background-color: #125C13; 
+    border: none; 
+    color: white; 
+    font-size: 23px; 
+    cursor: pointer;
+    padding: 0.5rem;
+  }
+  .btn:hover {
+    background-color: DodgerBlue;
+  }
+
